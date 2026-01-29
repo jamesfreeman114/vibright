@@ -23,3 +23,7 @@
     text-decoration: none;
 }
 
+.homepage-logo {
+    display: flex;
+    width: 800px;
+}
