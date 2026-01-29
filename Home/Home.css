@@ -1,0 +1,29 @@
+.homepage-container {
+    color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.homepage-welcome {
+    color: rgb(255, 255, 255);
+}
+
+.homepage-links {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 500px;
+}
+
+.homepage-link-item {
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    text-decoration: none;
+}
+
+.homepage-logo {
+    display: flex;
+    width: 800px;
+}
