@@ -1,9 +1,9 @@
-import React from "react"
+import "./Bio.css"
 
 export const Bio = () => {
     return(
     <>
-    <h1>Here is the Bio</h1>
+    <h1 className="bio-heading-text">Here is the Bio</h1>
     </>
     )
 }
