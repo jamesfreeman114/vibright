@@ -1,0 +1,34 @@
+body {
+    background-color: black;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    color:white;
+}
+
+main {
+    display: flex;
+    justify-content: space-evenly;
+
+    
+    
+
+}
+
+#bio {
+    display: flex;
+    color: white;
+}
+
+#merch {
+    display: flex;
+    align-self: center;
+    color: white;
+}
+
+#links {
+    display: flex;
+    color: white;
+}
